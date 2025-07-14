@@ -1,0 +1,7 @@
+I need the Blazor web app project for Student grade management system using 
+Login and Singup page with aunthaication 
+Login admin show admin dashboard 
+Login student role it's show only student dashboard 
+Once login admin dashboard to show students records,course records, Instructor details and working curd operation like add students,  remove and delete functionality for  both students, courses and  instructors also 
+After login student dashboard it's shows profile, course enrollment, Grades marks 
+And we need to add students dashboard in attendance details , leave details, performance chart.
